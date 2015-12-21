@@ -1,0 +1,4 @@
+# kopieren vom ssh
+# ssh account:/file/.../ ~/put/file/directory/filename
+
+scp Katja@ma08323.germanistik-kunst.uni-marburg.de:/Users/ma08323/Documents/Exp_Cluster/EEG_ru/ru_01.eeg/ ~/Downloads/ru_01.eeg
